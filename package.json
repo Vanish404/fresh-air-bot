@@ -1,0 +1,9 @@
+{
+  "name": "fresh-air-bot",
+  "version": "0.0.1",
+  "description": "This repository is about fresh air schedule for telegram bot",
+  "main": "index.js",
+  "repository": "https://github.com/Vanish404/fresh-air-bot.git",
+  "author": "Maksim Shuba <shubamaxim95@gmail.com>",
+  "license": "MIT"
+}
